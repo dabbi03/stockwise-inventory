@@ -35,4 +35,5 @@ A responsive inventory management dashboard built using HTML, CSS, and JavaScrip
 6. Save.
 
 ## Developer
-Portfolio Project - StockWise
+dabbi
+
